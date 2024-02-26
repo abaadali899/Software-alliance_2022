@@ -1,0 +1,12 @@
+.form-check-input:checked {
+    border-color: rgb(192, 45, 78);
+    /* Set border color to match the border */
+}
+
+/* Override default browser styles for checkbox */
+.form-check-input:checked:focus {
+    border-color: rgb(192, 45, 78);
+    /* Set border color to match the border */
+    box-shadow: none;
+    /* Remove default focus outline */
+}

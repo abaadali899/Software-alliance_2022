@@ -1,0 +1,130 @@
+.custom-size-logo {
+    width: 145px;
+}
+
+.custom-size-links {
+    margin-left: 140px;
+
+}
+
+#dot {
+
+    height: 15px;
+    width: 16px;
+    background-color: #eeb0b0;
+    color: rgb(116, 26, 26);
+    border-radius: 70%;
+
+}
+
+#inline-buttons {
+    margin-right: 30px;
+    padding-left: 10px;
+    background-color: rgba(234, 241, 243, 0.644);
+    color: white;
+
+}
+
+#inline-buttons:hover {
+    background-color: white;
+    color: black;
+}
+
+.sg:hover {
+    background-color: transparent;
+}
+
+.dropdown-menu:hover {
+    background-color: white;
+
+}
+
+.dropdown-item {
+    background-color: white;
+}
+
+.dropdown-item1:hover {
+    background-color: #f7dcdc;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.arrow-icons img {
+    width: 25px;
+    height: auto;
+    margin-left: 10px;
+
+}
+
+.card-header-custom {
+    position: relative;
+}
+
+.arrow-icons {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.arrow-icons:hover {
+    cursor: pointer;
+}
+
+.crd-lr {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.pink-line {
+    position: relative;
+    display: inline-block;
+}
+
+.pink-line::before {
+    content: "";
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    width: 50%;
+    height: 3px;
+    background-color: rgb(204, 105, 122);
+    display: block;
+    margin-left: 1px;
+    /* Adjust the space between the text and the line */
+}
+
+#row-btn {
+    background-color: rgb(214, 201, 184);
+    color: white;
+    border: none;
+}
+
+#row-btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.arrow-icons2 img {
+    width: 25px;
+    height: auto;
+    margin-right: 10px;
+    margin-top: 60px;
+}
+
+.btn-space {
+    margin-right: 10px;
+    /* Adjust the margin value as needed */
+}
+
+.custom-paragraph {
+    text-align: justify;
+    /* Adjust text alignment as needed */
+
+}
+
+.row-btn {
+    background-color: rgb(249, 234, 237);
+}

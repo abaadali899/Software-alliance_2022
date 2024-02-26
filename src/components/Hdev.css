@@ -1,0 +1,55 @@
+.custom-size-logo {
+    width: 145px;
+}
+
+.custom-size-links {
+    margin-left: 140px;
+
+}
+
+#dot {
+
+    height: 15px;
+    width: 16px;
+
+
+
+}
+
+#inline-buttons {
+    background-color: rgba(234, 241, 243, 0.644);
+    color: white;
+
+}
+
+#inline-buttons:hover {
+    background-color: white;
+    color: black;
+}
+
+.sg:hover {
+    background-color: transparent;
+}
+
+.dropdown-menu:hover {
+    background-color: white;
+
+}
+
+.dropdown-item {
+    background-color: white;
+}
+
+.dropdown-item1:hover {
+    background-color: #f7dcdc;
+    color: white;
+    border-radius: 5px;
+
+}
+
+#row-btn {
+    background-color:rgba(255, 255, 255, 0.3);
+    ;
+     color: white;
+     border:none;
+} 

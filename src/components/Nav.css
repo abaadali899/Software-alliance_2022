@@ -1,0 +1,74 @@
+.custom-size-logo {
+    width: 145px;
+}
+
+.custom-size-links {
+    margin-left: 140px;
+
+}
+
+#dot {
+
+    height: 15px;
+    width: 16px;
+    background-color: #eeb0b0;
+    color: rgb(116, 26, 26);
+    border-radius: 70%;
+
+}
+
+#inline-buttons {
+    margin-right: 30px;
+    padding-left: 10px;
+    background-color: rgba(234, 241, 243, 0.644);
+    color: white;
+
+}
+
+#inline-buttons:hover {
+    background-color: white;
+    color: black;
+}
+
+.sg:hover {
+    background-color: transparent;
+}
+
+.dropdown-menu:hover {
+    background-color: white;
+
+}
+
+.dropdown-item {
+    background-color: white;
+}
+
+.dropdown-item1:hover {
+    background-color: #f7dcdc;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.sg {
+    background-color: #f3a7a7;
+    color: white;
+}
+
+/* Nav.css */
+.navbar-collapse {
+    transition: max-height 0.5s ease-in-out;
+    overflow: hidden;
+    max-height: 0;
+}
+
+.navbar-collapse.show {
+    max-height: 500px;
+    /* Adjust this value according to your menu height */
+}
+ @media (max-width:576px){
+    .sml{
+        margin-left:"100px"
+    }
+ }
+  

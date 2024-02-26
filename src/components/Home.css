@@ -1,0 +1,24 @@
+.mini-pic {
+    width: 25%;
+}
+
+.card-img-top {
+    width: 2px;
+}
+
+.arrow-icons2 img {
+    width: 25px;
+    height: auto;
+    margin-right: 15px;
+    margin-top: 60px;
+}
+
+
+.arrow-icons2:hover {
+    cursor: pointer;
+}
+
+.benefits {
+    width: 20%;
+    margin-top: 20px;
+}

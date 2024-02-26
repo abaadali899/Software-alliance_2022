@@ -1,0 +1,9 @@
+#btns {
+    background-color: rgb(249, 234, 237);
+    color: rgb(22, 19, 19);
+}
+
+#btns:hover {
+    background-color: rgb(192, 45, 78);
+    color: white;
+}

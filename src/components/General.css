@@ -1,0 +1,123 @@
+#idt:hover {
+    background-color: rgb(192, 45, 78);
+    color: white;
+}
+
+#idt {
+    background-color: white;
+    color: rgb(7, 5, 5);
+}
+
+#idt1 {
+    background-color: rgb(192, 45, 78);
+    color: white;
+}
+
+p {
+    color: rgb(146, 143, 139);
+}
+
+#idt2 {
+    background-color: rgb(249, 234, 237);
+}
+
+#idt2:hover {
+    background-color: rgb(192, 45, 78);
+    color: white;
+}
+
+#idt3 {
+    text-decoration: none;
+}
+
+#idt3:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.montserrat-subrayada-regular {
+    font-family: "Montserrat Subrayada", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.zoom-on-hover {
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.zoom-on-hover:hover {
+    transform: scale(1.03);
+}
+
+.custom-icon {
+    font-size: 0.75rem;
+}
+
+/* .custom-box-shadow {
+    box-shadow: 0.5px 3px 3px 4px grey;
+  }  */
+
+/* .navbar-collapse {
+    transition: transform 0.3s ease;
+    transform: translateX(-100%);
+  }
+  .navbar-collapse.show {
+    transform: translateX(0%);
+  }    */
+
+.cutom-ds {
+    width: 30px;
+}
+
+/* .full-width-image{
+    box-shadow: 0.5px 3px 3px 4px grey;
+} */
+.btn {
+    outline: none;
+}
+
+@media (max-width: 576px) {
+
+    .iLeft,
+    .iRight {
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+
+
+    .coma {
+        width: 50px;
+    }
+}
+
+@media (max-width: 576px) {
+
+
+    .coma1 {
+        width: 15px;
+
+    }
+}
+
+@media (max-width: 576px) {
+
+
+    .slidpic {
+        width: 100px;
+        margin-top: 18px;
+
+    }
+}
+
+
+.iLeft,
+.iRight {
+    margin-top: 310px;
+}
+
+.iLeft {
+    margin-left: 100px;
+}
